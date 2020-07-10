@@ -26,7 +26,7 @@ Play with Eastern Orthodox religion in the game. After Jesus's death (Saint) And
 Features:
 - Unique religion Eastern Orthodox. Each city +2 culture / year.
 - Unique art assets specifically for Eastern Orthodox.
-- The Church of Hagia Ierene Holy Wonder improvement (+1VP, +10 Culture, -2 Stone/year, +5 gold/city with religion, +1 Disciple/20 years).
+- The Church of Hagia Eirene Holy Wonder improvement (+1VP, +10 Culture, -2 Stone/year, +5 gold/city with religion, +1 Disciple/20 years).
 - Monastory, Temple, Cathedral and Disciple for the religion (same stats as other religion's improvements).
 - Requires Metaphysics and 2 Christian cities for founding.
 - Spreads in 8 turns, or via Disciple.
