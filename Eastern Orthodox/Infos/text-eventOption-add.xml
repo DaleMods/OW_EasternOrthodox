@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ORTHODOX_CATHEDRALS_YES</zType>
+		<English>Let them have their cathedrals.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ORTHODOX_CATHEDRALS_NO</zType>
+		<English>{RELIGION-0,3} must find someplace else to worship.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_YES</zType>
+		<English><![CDATA[Allow him to preach.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_NO</zType>
+		<English><![CDATA[Banish this heretic.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FOUND_ORTHODOX_YES</zType>
+		<English><![CDATA[Allow him to preach.]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_FOUND_ORTHODOX_NO</zType>
+		<English><![CDATA[Banish this heretic.]]></English>
+	</Entry>
+</Root>

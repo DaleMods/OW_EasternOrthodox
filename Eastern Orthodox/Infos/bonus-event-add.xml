@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ORTHODOX_CATHEDRALS_YES</zType>
+		<Ambition>GOAL_THREE_CATHEDRALS_ORTHODOX</Ambition>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_YES</zType>
+		<FoundReligion>RELIGION_ORTHODOX</FoundReligion>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_NO</zType>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOUND_ORTHODOX_YES</zType>
+		<FoundReligion>RELIGION_ORTHODOX</FoundReligion>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOUND_ORTHODOX_NO</zType>
+	</Entry>
+</Root>

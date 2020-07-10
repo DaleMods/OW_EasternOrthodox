@@ -1,0 +1,19 @@
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_RELIGION_ORTHODOX</zType>
+		<zAsset>DalesAssetBundle/RELIGION_ORTHODOX</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_UNIT_ORTHODOX_DISCIPLE</zType>
+		<zAsset>Prefabs/Units/DiscipleChristianity</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_UNIT_ORTHODOX_DISCIPLE</zType>
+		<zAsset>DalesAssetBundle/UNIT_ORTHODOX_DISCIPLE</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_ORTHODOX_HAGIA_EIRENE</zType>
+		<zAsset>DalesAssetBundle/IMPROVEMENT_HAGIA_EIRENE</zAsset>
+	</Entry>
+</Root>

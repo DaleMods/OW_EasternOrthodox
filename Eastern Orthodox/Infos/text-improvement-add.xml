@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_ORTHODOX</zType>
+    <English>Eastern Orthodox Monastery~an Eastern Orthodox Monastery~Eastern Orthodox Monasteries</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_ORTHODOX</zType>
+    <English>Eastern Orthodox Temple~an Eastern Orthodox Temple~Eastern Orthodox Temples</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CATHEDRAL_ORTHODOX</zType>
+    <English>Eastern Orthodox Cathedral~an Eastern Orthodox Cathedral~Eastern Orthodox Cathedrals</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_ORTHODOX</zType>
+    <English>The Church of Hagia Eirene</English>
+  </Entry>
+</Root>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+    <Entry>
+        <zType>SPRITE_GROUP_RELIGION_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_RELIGIONS</zValue>
+            <zValue>ASSET_SPRITE_SHEET_RELIGION_ORTHODOX</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_UNIT_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_UNITS</zValue>
+            <zValue>ASSET_SPRITE_SHEET_RELIGIONS</zValue>
+            <zValue>ASSET_SPRITE_SHEET_RELIGION_ORTHODOX</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_UNIT_PORTRAITS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_UNIT_PORTRAITS</zValue>
+            <zValue>ASSET_SPRITE_SHEET_UNIT_ORTHODOX_DISCIPLE</zValue>
+        </aeSpriteSheets>
+    </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_IMPROVEMENT_ICONS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_IMPROVEMENTS</zValue>
+            <zValue>ASSET_SPRITE_ORTHODOX_HAGIA_EIRENE</zValue>
+        </aeSpriteSheets>
+    </Entry>
+</Root>

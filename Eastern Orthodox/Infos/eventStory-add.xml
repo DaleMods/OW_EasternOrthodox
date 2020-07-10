@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EVENTSTORY_ORTHODOX_CATHEDRALS</zType>
+		<Name>TEXT_EVENTSTORY_ORTHODOX_CATHEDRALS_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_ORTHODOX_CATHEDRALS</Text>
+		<zAudioTrigger>AUDIO_UI_EVENT_RITUAL_SPLENDOR</zAudioTrigger>
+		<zEventAuthor>Dale Kent</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_ORTHODOX</zValue>
+			<zValue>SUBJECT_PLAYER_US</zValue>
+			<zValue>SUBJECT_FAMILY_US</zValue>
+		</aeSubjects>
+		<SubjectRelations>
+			<Triple>
+				<First>2</First>
+				<Second>SUBJECTRELATION_RELIGION_STATE</Second>
+				<Third>0</Third>
+			</Triple>
+		</SubjectRelations>
+		<aeOptions>
+			<zValue>EVENTOPTION_ORTHODOX_CATHEDRALS_YES</zValue>
+			<zValue>EVENTOPTION_ORTHODOX_CATHEDRALS_NO</zValue>
+		</aeOptions>
+		<iWeight>2</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_HAPPINESS_FOUND_ORTHODOX</zType>
+		<Name>TEXT_EVENTSTORY_HAPPINESS_FOUND_ORTHODOX_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_HAPPINESS_FOUND_ORTHODOX</Text>
+		<zEventAuthor>Dale Kent</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_YES</zValue>
+			<zValue>EVENTOPTION_HAPPINESS_FOUND_ORTHODOX_NO</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_CITY_CULTURE</Trigger>
+		<iWeight>1</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+	<Entry>
+		<zType>EVENTSTORY_FOUND_ORTHODOX</zType>
+		<Name>TEXT_EVENTSTORY_FOUND_ORTHODOX_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_FOUND_ORTHODOX</Text>
+		<zEventAuthor>Dale Kent</zEventAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_CITY_US</zValue>
+		</aeSubjects>
+		<aeOptions>
+			<zValue>EVENTOPTION_FOUND_ORTHODOX_YES</zValue>
+			<zValue>EVENTOPTION_FOUND_ORTHODOX_NO</zValue>
+		</aeOptions>
+		<iWeight>1</iWeight>
+		<iRepeatTurns>-1</iRepeatTurns>
+	</Entry>
+</Root>

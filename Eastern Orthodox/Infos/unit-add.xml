@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 sp1 (x64) (http://www.altova.com) by Stephen Frank (AudioTank) -->
+<Root>
+  <Entry>
+    <zType>UNIT_ORTHODOX_DISCIPLE</zType>
+    <Name>TEXT_UNIT_RELIGION_DISCIPLE</Name>
+    <zIconName>RELIGION_ORTHODOX</zIconName>
+    <zPortraitName>UNIT_ORTHODOX_DISCIPLE</zPortraitName>
+    <zBackgroundName>DiscipleUnitAttackBackground</zBackgroundName>
+    <zAudioSelectionType>DISCIPLE</zAudioSelectionType>
+    <zAudioMovementType>DISCIPLE</zAudioMovementType>
+    <zAudioAttackType>GENERIC</zAudioAttackType>
+    <aeFormations>
+      <zValue>FORMATION_ORTHODOX_DISCIPLE</zValue>
+    </aeFormations>
+    <UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
+    <RequiresReligion>RELIGION_ORTHODOX</RequiresReligion>
+    <SpreadReligion>RELIGION_ORTHODOX</SpreadReligion>
+    <BuildReligion>RELIGION_ORTHODOX</BuildReligion>
+    <ProductionType>YIELD_GROWTH</ProductionType>
+    <iMovement>3</iMovement>
+    <iVision>3</iVision>
+    <iFatigue>3</iFatigue>
+    <iStrength>30</iStrength>
+    <iHPMax>20</iHPMax>
+    <iProduction>80</iProduction>
+    <iProductionPer>5</iProductionPer>
+    <bBuyTile>1</bBuyTile>
+    <bTheology>1</bTheology>
+    <bReligious>1</bReligious>
+  </Entry>
+</Root>

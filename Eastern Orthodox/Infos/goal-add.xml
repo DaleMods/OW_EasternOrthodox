@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2018 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType>GOAL_THREE_CATHEDRALS_ORTHODOX</zType>
+		<Name>TEXT_GOAL_THREE_CATHEDRALS_ORTHODOX</Name>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>8</iMaxTier>
+		<aiImprovementCount>
+			<Pair>
+				<zIndex>IMPROVEMENT_CATHEDRAL_ORTHODOX</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiImprovementCount>
+	</Entry>
+</Root>

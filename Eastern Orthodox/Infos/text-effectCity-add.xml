@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ORTHODOX</zType>
+    <English>The Church of Hagia Eirene</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RELIGION_ORTHODOX</zType>
+    <English>Eastern Orthodox</English>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RELIGION_ORTHODOX_STATE</zType>
+    <English>Eastern Orthodox</English>
+  </Entry>
+</Root>

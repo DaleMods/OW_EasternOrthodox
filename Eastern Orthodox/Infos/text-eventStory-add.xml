@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORTHODOX_CATHEDRALS</zType>
+		<English>Devout members of the {FAMILY-2} family have spent weeks exerting pressure on our royal engineers. They desire the construction of link(IMPROVEMENT_CATHEDRAL_ORTHODOX,2) to house the growing number of worshippers.
+
+Do we relent to this pressure?</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_ORTHODOX</zType>
+		<English><![CDATA[An Apostle named Andrew preaches a new religion in {CITY-0}. He claims to come from the West. He calls himself Protokletos, the first-called to Jesus, and thus preaches the True Word of Jesus of Nazareth.
+
+What do we do?]]></English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUND_ORTHODOX</zType>
+		<English><![CDATA[An Apostle named Andrew preaches a new religion in {CITY-0}. He claims to come from the West. He calls himself Protokletos, the first-called to Jesus, and thus preaches the True Word of Jesus of Nazareth.
+
+What do we do?]]></English>
+	</Entry>
+</Root>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+  <Entry>
+    <zType>EFFECTPLAYER_RELIGION_ORTHODOX</zType>
+    <Name>TEXT_EFFECTPLAYER_RELIGION_ORTHODOX</Name>
+    <SourceReligionState>RELIGION_ORTHODOX</SourceReligionState>
+    <StateReligionEffectCity>EFFECTCITY_RELIGION_ORTHODOX_STATE</StateReligionEffectCity>
+  </Entry>
+</Root>

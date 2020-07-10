@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+  <Entry>
+    <zType>RELIGION_ORTHODOX</zType>
+    <Name>TEXT_RELIGION_ORTHODOX</Name>
+    <zIconName>RELIGION_ORTHODOX</zIconName>
+    <iCostBase>400</iCostBase>
+    <iCostPerChange>200</iCostPerChange>
+    <iSpreadThreshold>8</iSpreadThreshold>
+    <EffectCity>EFFECTCITY_RELIGION_ORTHODOX</EffectCity>
+    <EffectPlayerState>EFFECTPLAYER_RELIGION_ORTHODOX</EffectPlayerState>
+    <EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_LOW_CIVICS</EffectPlayerUpkeep>
+    <RequiresTech>TECH_METAPHYSICS</RequiresTech>
+    <SpreadUnit>UNIT_ORTHODOX_DISCIPLE</SpreadUnit>
+    <aiRequiresReligion>
+      <Pair>
+        <zIndex>RELIGION_CHRISTIANITY</zIndex>
+        <iValue>2</iValue>
+      </Pair>
+    </aiRequiresReligion>
+  </Entry>
+</Root>
