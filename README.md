@@ -24,10 +24,10 @@ About the Mod:
 Play with Eastern Orthodox religion in the game. After Jesus's death (Saint) Andrew the Apostle settled in the city of Byzantium (later Constantinople) and established the See of Byzantium. His preachings influenced the spread of Christianity through Eastern Europe. After the religious schism and the splitting of the Roman Empire into East and West Empires, the Patricarchy of Constantinople (as it was known by then) became the centre for the Eastern Church. This later developed into the Eastern Orthodox Church. Saint Andrew is viewed as the founder of the Eastern Orthodox church and is one of only a few Saints of both the Catholic and Eastern Orthodox churches.
 
 Features:
-- Unique religion Eastern Orthodox.
+- Unique religion Eastern Orthodox. Each city +2 culture / year.
 - Unique art assets specifically for Eastern Orthodox.
-- The Church of Hagia Ierene Holy Wonder improvement.
-- Monastory, Temple, Cathedral and Disciple for the religion.
+- The Church of Hagia Ierene Holy Wonder improvement (+1VP, +10 Culture, -2 Stone/year, +5 gold/city with religion, +1 Disciple/20 years).
+- Monastory, Temple, Cathedral and Disciple for the religion (same stats as other religion's improvements).
 - Requires Metaphysics and 2 Christian cities for founding.
 - Spreads in 8 turns, or via Disciple.
 - New goals and events based on the religion.
